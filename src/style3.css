@@ -132,7 +132,7 @@ svg circle {
 .icon:hover circle {
     stroke-dasharray: 220;
 }
-.content .img-nosotros img {
+.img-nosotros img {
     padding: 5px;
     max-width: 100%;
 }
